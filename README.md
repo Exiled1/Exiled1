@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exiled1)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@ed755a00-b468-487b-8a41-a0fc0703a812/cbcf6c3b-3449-4a04-b33c-becb93a3b195.svg"></embed></figure>
+![Wakatime](https://wakatime.com/share/@ed755a00-b468-487b-8a41-a0fc0703a812/cbcf6c3b-3449-4a04-b33c-becb93a3b195.svg)
 <!--
 **Exiled1/Exiled1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
